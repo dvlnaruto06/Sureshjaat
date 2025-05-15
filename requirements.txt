@@ -1,3 +1,5 @@
+--upgrade
+--force-reinstall
 Pyrofork
 tgcrypto
 motor
